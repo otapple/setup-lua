@@ -14,13 +14,14 @@ const VERSION_ALIASES = {
   "5.1": "5.1.5",
   "5.2": "5.2.4",
   "5.3": "5.3.5",
-  "5.4": "5.4.2",
+  "5.4": "5.4.3",
   "luajit": "luajit-2.0.5",
   "luajit-2.0": "luajit-2.0.5",
   "luajit-2.1": "luajit-2.1.0-beta3",
 }
 
 const TARBALLS = {
+  "5.4.3":              ["ef63ed2ecfb713646a7fcc583cf5f352", "https://www.lua.org/ftp/lua-5.4.3.tar.gz"],
   "5.4.2":              ["49c92d6a49faba342c35c52e1ac3f81e", "https://www.lua.org/ftp/lua-5.4.2.tar.gz"],
   "5.4.1":              ["1d575faef1c907292edd79e7a2784d30", "https://www.lua.org/ftp/lua-5.4.1.tar.gz"],
   "5.4.0":              ["dbf155764e5d433fc55ae80ea7060b60", "https://www.lua.org/ftp/lua-5.4.0.tar.gz"],
